@@ -1,0 +1,18 @@
+This is a simple little project to help you get started with
+Twitter Bootstrap and Font Awesome. Be sure to check out:
+http://twitter.github.com/bootstrap/index.html
+http://fortawesome.github.com/Font-Awesome/
+
+To Begin
+---------
+1. clone this repo
+2. cd into the repo & run:
+python -m SimpleHTTPServer 8000
+3. point your browser to http://localhost:8000
+
+** index.html is the main splash page
+** template.html is a mostly empty sample content page
+you can cp template.html (to e.g. about.html) write new
+content in it and then link to it from other pages (e.g. index.html)
+
+Have fun.
